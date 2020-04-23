@@ -1,2 +1,2 @@
-# uml-adapter
-The UML adapter framework for OML
+# md-adapter
+The MagicDraw adapter framework for OML
